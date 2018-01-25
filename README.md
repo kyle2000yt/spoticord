@@ -38,10 +38,10 @@
 
   Q: I'm not experienced with this scope of programming, are there any tutorials?  
   A: **Yes! I found a few on YouTube:**  
-        - https://www.youtube.com/watch?v=9Gsop2h64Uo  
-        - https://www.youtube.com/watch?v=bTP2t6VgAv8  
-        - https://www.youtube.com/watch?v=KhQtXUH4jlU  
-        - https://www.youtube.com/watch?v=Rntn6Jg8cHk
+        - https://youtu.be/9Gsop2h64Uo  
+        - https://youtu.be/Y9c8YNvRlv0
+        - https://youtu.be/KhQtXUH4jlU  
+        - https://youtu.be/Rntn6Jg8cHk
 
 
   Q: I found an obscure error not mentioned in the troubleshooting section, what should I do?  
